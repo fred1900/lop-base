@@ -1,0 +1,12 @@
+_Store
+.settings
+.springBeans
+bin
+*.log
+.*.swp
+.classpath
+*/.project
+.idea
+target
+build
+workspace.xml
