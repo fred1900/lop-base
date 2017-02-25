@@ -2,6 +2,7 @@ _Store
 .settings
 .springBeans
 bin
+target
 *.log
 .*.swp
 .classpath
