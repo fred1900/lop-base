@@ -32,5 +32,8 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/bop-base"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bop-util"/>
+	<classpathentry kind="lib" path="/Users/andpay/Downloads/netty-3.10.5.Final.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
