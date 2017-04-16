@@ -11,3 +11,6 @@ target
 target
 build
 workspace.xml
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
