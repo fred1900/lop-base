@@ -22,18 +22,17 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/bop-base"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/bop-util"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/andpay/Downloads/netty-3.10.5.Final.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/bop-base"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/bop-util"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
